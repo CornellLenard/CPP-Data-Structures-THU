@@ -1,0 +1,10 @@
+﻿  bitmap.cpp
+  main.cpp
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\hashmap_dictionary.h(229,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\hashmap_dictionary.h(222): message : 在编译 类 模板 成员函数“int HashMapDictionary<int,int>::GetPrime(int)”时
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\hashmap_dictionary.h(283): message : 查看对正在编译的函数 模板 实例化“int HashMapDictionary<int,int>::GetPrime(int)”的引用
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\hashmap_dictionary.h(282): message : 在编译 类 模板 成员函数“HashMapDictionary<int,int>::HashMapDictionary(int)”时
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\main.cpp(7): message : 查看对正在编译的函数 模板 实例化“HashMapDictionary<int,int>::HashMapDictionary(int)”的引用
+C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\HashMap Dictionary\main.cpp(7): message : 查看对正在编译的 类 模板 实例化“HashMapDictionary<int,int>”的引用
+  正在生成代码...
+  HashMap Dictionary.vcxproj -> C:\Users\78009\Desktop\Uni Time\Computer Science\Data Structures\Coursera THU\HashMap Dictionary\Debug\HashMap Dictionary.exe
