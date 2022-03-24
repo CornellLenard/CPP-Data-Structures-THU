@@ -1,2 +1,6 @@
 # CPP-Data-Structures-THU
-C++ data structures from Tsinghua University
+C++ data structures course at Tsinghua University  
+OS: Windows  
+IDE: Visual Studio 2019
+
+
